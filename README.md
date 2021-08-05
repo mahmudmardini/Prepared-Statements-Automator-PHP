@@ -5,7 +5,7 @@ Web-based Prepared Statements Automator tool that helps PHP developers protect t
 - PHP
 
 ## Preview
-![Preview](./preview/project_preview.gif)
+![Preview](./preview/project-preview.gif)
 
 ## Demo
 <a target="_blank" href="https://mahmudmardini.bartinrehberi.info/projects/prepared-statements-automator/">View Demo</a>
